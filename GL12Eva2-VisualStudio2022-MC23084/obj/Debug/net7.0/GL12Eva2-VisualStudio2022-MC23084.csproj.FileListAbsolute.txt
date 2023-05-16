@@ -1,0 +1,15 @@
+C:\Users\user\Documents\Visual Studio 2022\Projects\PersonalProjects\GL12Eva2-VisualStudio2022-MC23084\bin\Debug\net7.0\GL12Eva2-VisualStudio2022-MC23084.exe
+C:\Users\user\Documents\Visual Studio 2022\Projects\PersonalProjects\GL12Eva2-VisualStudio2022-MC23084\bin\Debug\net7.0\GL12Eva2-VisualStudio2022-MC23084.deps.json
+C:\Users\user\Documents\Visual Studio 2022\Projects\PersonalProjects\GL12Eva2-VisualStudio2022-MC23084\bin\Debug\net7.0\GL12Eva2-VisualStudio2022-MC23084.runtimeconfig.json
+C:\Users\user\Documents\Visual Studio 2022\Projects\PersonalProjects\GL12Eva2-VisualStudio2022-MC23084\bin\Debug\net7.0\GL12Eva2-VisualStudio2022-MC23084.dll
+C:\Users\user\Documents\Visual Studio 2022\Projects\PersonalProjects\GL12Eva2-VisualStudio2022-MC23084\bin\Debug\net7.0\GL12Eva2-VisualStudio2022-MC23084.pdb
+C:\Users\user\Documents\Visual Studio 2022\Projects\PersonalProjects\GL12Eva2-VisualStudio2022-MC23084\obj\Debug\net7.0\GL12Eva2-VisualStudio2022-MC23084.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2022\Projects\PersonalProjects\GL12Eva2-VisualStudio2022-MC23084\obj\Debug\net7.0\GL12Eva2-VisualStudio2022-MC23084.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Visual Studio 2022\Projects\PersonalProjects\GL12Eva2-VisualStudio2022-MC23084\obj\Debug\net7.0\GL12Eva2-VisualStudio2022-MC23084.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Visual Studio 2022\Projects\PersonalProjects\GL12Eva2-VisualStudio2022-MC23084\obj\Debug\net7.0\GL12Eva2-VisualStudio2022-MC23084.AssemblyInfo.cs
+C:\Users\user\Documents\Visual Studio 2022\Projects\PersonalProjects\GL12Eva2-VisualStudio2022-MC23084\obj\Debug\net7.0\GL12Eva2-VisualStudio2022-MC23084.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2022\Projects\PersonalProjects\GL12Eva2-VisualStudio2022-MC23084\obj\Debug\net7.0\GL12Eva2-VisualStudio2022-MC23084.dll
+C:\Users\user\Documents\Visual Studio 2022\Projects\PersonalProjects\GL12Eva2-VisualStudio2022-MC23084\obj\Debug\net7.0\refint\GL12Eva2-VisualStudio2022-MC23084.dll
+C:\Users\user\Documents\Visual Studio 2022\Projects\PersonalProjects\GL12Eva2-VisualStudio2022-MC23084\obj\Debug\net7.0\GL12Eva2-VisualStudio2022-MC23084.pdb
+C:\Users\user\Documents\Visual Studio 2022\Projects\PersonalProjects\GL12Eva2-VisualStudio2022-MC23084\obj\Debug\net7.0\GL12Eva2-VisualStudio2022-MC23084.genruntimeconfig.cache
+C:\Users\user\Documents\Visual Studio 2022\Projects\PersonalProjects\GL12Eva2-VisualStudio2022-MC23084\obj\Debug\net7.0\ref\GL12Eva2-VisualStudio2022-MC23084.dll
